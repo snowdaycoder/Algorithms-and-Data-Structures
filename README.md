@@ -6,7 +6,8 @@
 ### [Sorting ♻](https://github.com/matrixread/Algorithms-and-Data-Structures/tree/master/Algorithms/Sorting)
 ### [Graphs 📊](https://github.com/matrixread/Algorithms-and-Data-Structures/tree/master/Algorithms/Graphs)
 
-=======
+***
+
 ## Data Structures 🧮
 
 ### Linear Data Structures ➡
@@ -23,6 +24,8 @@
 Make sure you read [CONTRIBUTING.MD](https://github.com/matrixread/Algorithms-and-Data-Structures/blob/master/CONTRIBUTING.md) before you contribute!
 
 ----
+
 <h2 align="center"> Powered by <a href="https://matrixread.com/">matrixread.com</a> Blog</h2>
 <h3 align="center">Learn📚 | Explore🌏 Programming | Web👨‍💻 Development | ideas🧠</h3>
+
 ---
