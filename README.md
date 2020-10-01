@@ -1,20 +1,20 @@
 <h1 align="center"> 🤖Algorithms and Data Structures📚 </h1>
 
-# Algorithms
+## Algorithms
 
 ### [Searching]()
 ### [Sorting]()
 ### [Graphs]()
 
-# Data Structures
+## Data Structures
 
-## Linear Data Structures
+### Linear Data Structures
 
 ### [Linked List]()
 ### [Stack]()
 ### [Queue]()
 
-## Non-Linear Data Structures
+### Non-Linear Data Structures
 
 ### [Graphs]()
 ### [Trees]()
