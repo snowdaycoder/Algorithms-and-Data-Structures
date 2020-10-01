@@ -7,7 +7,7 @@ Install Git:
 1. Fork this repository on Github.
 2. Clone it onto your computer by opening terminal and running the command
 ```
-git clone https://github.com/{your username}/Algorithms.git
+git clone https://github.com/{your username}/Algorithms-and-Data-Structures.git
 ```
 3. Use the actual name of the repository to change into that directory (eg. `cd repository`) and create and switch to a new branch by the following command:
 `git checkout -b new-branch`
