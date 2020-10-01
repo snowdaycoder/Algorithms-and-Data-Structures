@@ -6,8 +6,6 @@
 ### [Sorting ♻](https://github.com/matrixread/Algorithms-and-Data-Structures/tree/master/Algorithms/Sorting)
 ### [Graphs 📊](https://github.com/matrixread/Algorithms-and-Data-Structures/tree/master/Algorithms/Graphs)
 
-***
-
 ## Data Structures 🧮
 
 ### Linear Data Structures ➡
